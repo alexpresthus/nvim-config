@@ -21,3 +21,14 @@ vim.keymap.set("v", "<leader>d", "\"_d")
 
 vim.keymap.set("n", "Q", "<nop>")
 
+-- fugitive
+vim.keymap.set("n", "<leader>gs", vim.cmd.Git)
+
+-- undotree
+vim.keymap.set("n", "<leader>u", vim.cmd.UndotreeToggle)
+
+-- window nav
+vim.keymap.set("n", "<leader>w1", "1<C-w>w")
+vim.keymap.set("n", "<leader>w2", "2<C-w>w")
+vim.keymap.set("n", "<leader>w3", "3<C-w>w")
+vim.keymap.set("n", "<leader>w4", "4<C-w>w")
