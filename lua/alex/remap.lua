@@ -32,4 +32,3 @@ vim.keymap.set("n", "<leader>w1", "1<C-w>w")
 vim.keymap.set("n", "<leader>w2", "2<C-w>w")
 vim.keymap.set("n", "<leader>w3", "3<C-w>w")
 vim.keymap.set("n", "<leader>w4", "4<C-w>w")
-

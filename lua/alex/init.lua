@@ -15,5 +15,7 @@ end
 
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup("alex.lazy")
+require("lazy").setup("alex.lazy", {
+    change_detection = { notify = false }
+})
 
