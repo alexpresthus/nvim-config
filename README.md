@@ -7,26 +7,32 @@ Neovim AppImage installation -> [github.com/neovim](https://github.com/neovim/ne
 ## Plugins
 
 ### Plugin Manager
-* [folke/lazy]()
+    * [folke/lazy]()
 
 ### Theme and appearnce
-* [rose-pine/neovim]()
-* [nvim-treesitter/treesitter]()
+    * [rose-pine/neovim]()
+    * [nvim-treesitter/treesitter]()
 
 ### Search and navigation
-* [folke/which-key]()
-* [nvim-telescope/telescope]()
-* [ThePrimaegen/harpoon]()
-* [tpope/vim-fugitive]()
-* [mbbill/undotree]()
+    * [folke/which-key]()
+    * [nvim-telescope/telescope]()
+    * [ThePrimaegen/harpoon]()
+    * [tpope/vim-fugitive]()
+    * [mbbill/undotree]()
 
 ### LSP and auto-complete
-* [VonHeikemen/lsp-zero]()
-* [williamboman/mason]()
-* [williamboman/mason-lspconfig]()
-* [neovim/nvim-lspconfig]()
-* [hrsh7th/cmp-nvim-lsp]()
-* [hrsh7th/nvim-cmp]()
-* [L3MON4D3/LuaSnip]()
+    * [neovim/nvim-lspconfig]()
+    * [williamboman/mason.nvim]()
+    * [williamboman/mason-lspconfig.nvim]()
+    * [hrsh7th/cmp-nvim-lsp]()
+    * [hrsh7th/cmp-buffer]()
+    * [hrsh7th/cmp-path]()
+    * [hrsh7th/cmp-cmdline]()
+    * [hrsh7th/nvim-cmp]()
+    * [saadparwaiz1/cmp_luasnip]()
+    * [j-hui/fidget.nvim]()
 
-
+### Snippets
+    * [L3MON4D3/LuaSnip]()
+    * [rafamadriz/friendly-snippets]()
+    * [danymat/neogen]()
