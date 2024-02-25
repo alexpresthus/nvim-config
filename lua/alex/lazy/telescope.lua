@@ -16,7 +16,6 @@ return {
                     previewer = false,
                 },
                 grep_string = {
-                    layout_strategy = "vertical",
                     layout_config = {
                     }
                 },
